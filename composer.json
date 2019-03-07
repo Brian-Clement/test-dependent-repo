@@ -1,0 +1,13 @@
+{
+    "name": "brclemen/test-dependent-repo",
+    "description": "Example front end application",
+    "type": "freida-frontend",
+    "authors": [
+        {
+            "name": "Brian Clement",
+            "email": "brian@bclement.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
